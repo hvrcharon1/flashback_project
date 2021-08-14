@@ -1,20 +1,22 @@
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
 import { useDispatch} from 'react-redux'; 
 
 import { getPosts } from './actions/posts';
 import Posts from './components/Posts/Posts';
 import Form from './components/Form/Form';
-import flashbacks from './images/flashbacks.png'
 import useStyles from './styles';
+import flashbacks from './images/flashbacks.png'
 
 const App = () => {
-    const classes =  useStyles();
+    const [currentId, setCurrentId] = useState(0);
     const dispatch = useDispatch();
+    const classes =  useStyles();
+    
 
     useEffect(() => {
         dispatch(getPosts());
-    }, [dispatch]);
+    }, [currentId, dispatch]);
 
 
     return (
@@ -27,11 +29,11 @@ const App = () => {
                 <Container>
                     <Grid container justify="space-between" alignItems="stretch" spacing={3}>
                         <Grid item xs={12} sm={7}>
-                            <Posts />
+                            <Posts setCurrentId={setCurrentId} />
                         
                         </Grid>
                         <Grid item xs={12} sm={4}>
-                            <Form />
+                            <Form currentId={currentId} setCurrentId={setCurrentId} />
                         </Grid>
                     </Grid>
                 </Container>
@@ -40,6 +42,6 @@ const App = () => {
 
         </Container>
     );
-}
+};
 
 export default App;
