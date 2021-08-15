@@ -20,7 +20,7 @@
 
 [![Foo](https://drive.google.com/uc?export=view&id=1WFxkLooLDQcHjJuojSdZ4JiVs7FIU5zE)](https://stackoverflow.com/questions/59337090/what-part-of-mern-stack-app-should-be-tested)
 
-### Utilization of front-end automation libraries 
+### Utilization of front-end and backend Testing automation libraries 
 
 [![Foo](https://drive.google.com/uc?export=view&id=1Y78p_BaL42nNt_eTl4eJoWN7VCR0Wt3F)](https://jestjs.io/docs/tutorial-react)
 
