@@ -35,11 +35,10 @@
 
 ### References
 
-![Foo](https://drive.google.com/uc?export=view&id=1YzJNrFbmzOFL-nGC9hJG3-swF2cPZjyO)[https://medium.com/mozilla-club-bbsr/dockerizing-a-mern-stack-web-application-ebf78babf136
-]
+[![Foo](https://drive.google.com/uc?export=view&id=1YzJNrFbmzOFL-nGC9hJG3-swF2cPZjyO)](https://medium.com/mozilla-club-bbsr/dockerizing-a-mern-stack-web-application-ebf78babf136)
 
-![Foo](https://drive.google.com/uc?export=view&id=1up2kVGqibceXdxGeISVrrndTO1TWAvSS)[https://www.youtube.com/watch?v=DftsReyhz2Q]
+[![Foo](https://drive.google.com/uc?export=view&id=1up2kVGqibceXdxGeISVrrndTO1TWAvSS)](https://www.youtube.com/watch?v=DftsReyhz2Q)
 
-![Foo](https://drive.google.com/uc?export=view&id=1up2kVGqibceXdxGeISVrrndTO1TWAvSS)[https://www.youtube.com/watch?v=7CqJlxBYj-M]
+[![Foo](https://drive.google.com/uc?export=view&id=1up2kVGqibceXdxGeISVrrndTO1TWAvSS)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
 ### Readme Included
