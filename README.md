@@ -18,7 +18,13 @@
 
 ### Utilizing a test driven development (tdd) approach in your development process
 
-### Utilization of front-end automation libraries such as Selenium or Eclipse
+[![Foo](https://drive.google.com/uc?export=view&id=1WFxkLooLDQcHjJuojSdZ4JiVs7FIU5zE)](https://stackoverflow.com/questions/59337090/what-part-of-mern-stack-app-should-be-tested)
+
+### Utilization of front-end automation libraries 
+
+[![Foo](https://drive.google.com/uc?export=view&id=1Y78p_BaL42nNt_eTl4eJoWN7VCR0Wt3F)](https://jestjs.io/docs/tutorial-react)
+
+[![Foo](https://drive.google.com/uc?export=view&id=1_nVIY95k2W9FtGj_yG1-40K8UoomEdYv)](https://github.com/mochajs/mocha)
 
 ## LANGUAGES
 
