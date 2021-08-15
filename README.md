@@ -4,6 +4,8 @@
 
 ### Representing each stack resource as a container/image and being able to run the stack from docker-compose or some other automation
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
 ### Demonstrating service orchestration between more than one service or micro-service
 
 ### Deployment on AWS or equivalent
