@@ -4,7 +4,7 @@
 
 ### Representing each stack resource as a container/image and being able to run the stack from docker-compose or some other automation
 
-[![Foo](https://drive.google.com/uc?export=view&id=1yf0zEfsve3ZSlKPtw1It4dZNpUegWXHL)] 
+![Foo](https://drive.google.com/uc?export=view&id=1yf0zEfsve3ZSlKPtw1It4dZNpUegWXHL)
 
 ### Demonstrating service orchestration between more than one service or micro-service
 
