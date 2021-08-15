@@ -40,7 +40,15 @@
 
 ![Foo](https://drive.google.com/uc?export=view&id=1nQjMXUgE0Ao-iC4JpSIr91h52TqGkHnu)
 
-### References
+### IDE
+
+![Foo](https://drive.google.com/uc?export=view&id=1pppN5kP38p7-8ziolbGmrF_n_HdYFyso)
+
+### Virtualization
+
+![Foo](https://drive.google.com/uc?export=view&id=16ouxcrMm7L5Lf___tSPSrHMD0vpyKpBb)
+
+## REFERENCES
 
 [![Foo](https://drive.google.com/uc?export=view&id=1YzJNrFbmzOFL-nGC9hJG3-swF2cPZjyO)](https://medium.com/mozilla-club-bbsr/dockerizing-a-mern-stack-web-application-ebf78babf136)
 
